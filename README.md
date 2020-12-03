@@ -1,0 +1,2 @@
+# Event-Booking-master
+- A Event Booking system where users can signup, login, logout, create events, update and delete them. - Book any events they wish to attend. - Non logged in users can see all events but cannot interact with the system without signing up. - From the bookings page, the user can see a list of their booked events, or click on the chart tab to see how many cheap, moderate or expensive events they have booked.
